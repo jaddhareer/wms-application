@@ -1,3 +1,7 @@
+<?php 
+echo "ok";
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
