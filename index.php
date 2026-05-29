@@ -1,7 +1,3 @@
-<?php 
-echo "ok";
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +6,7 @@ echo "ok";
     <link rel="stylesheet" href="style.css">
     <title>WMS APPLICATION</title>
 </head>
-<body>
+<body class='login-mode' >
     <!-- ======== LOGIN PAGE ======== -->
     <div class="login-wrap">
         <div class="login-bg">
