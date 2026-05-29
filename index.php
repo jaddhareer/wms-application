@@ -37,7 +37,6 @@
                 <span>Masuk</span>
             </button>
             </form>
-            <p class="login-footer">LSN Warehouse &copy; <?= date('Y') ?></p>
         </div>
     </div>
 </body>
