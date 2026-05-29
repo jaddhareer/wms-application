@@ -14,7 +14,6 @@
         </div>
         <div class="login-box">
             <div class="login-brand">
-            <img class="brand-icon" src="assets/img/logo.png" alt="logo lsn">
             <span class="brand-text">WMS <em>LSN</em></span>
             </div>
             <p class="login-sub">Warehouse Management System</p>
