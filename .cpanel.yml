@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/harz6664/public_html/wms-application/
+    - mkdir -p $DEPLOYPATH
     - /bin/cp -R . $DEPLOYPATH
